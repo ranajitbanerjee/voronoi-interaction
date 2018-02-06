@@ -1,0 +1,25 @@
+{
+  "name": "voronoi-interaction",
+  "version": "1.0.0",
+  "description": "Samples on how to make mouse interactions in scatterplot faster using d3 voronoi",
+  "main": "index.j",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ranajitbanerjee/voronoi-interaction.git"
+  },
+  "keywords": [
+    "d3-voronoi"
+  ],
+  "author": "Ranajit banerjee",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ranajitbanerjee/voronoi-interaction/issues"
+  },
+  "homepage": "https://github.com/ranajitbanerjee/voronoi-interaction#readme",
+  "dependencies": {
+    "d3": "^4.13.0"
+  }
+}
